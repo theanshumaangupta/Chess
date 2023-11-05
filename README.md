@@ -1,2 +1,2 @@
 # Chess
-A Raw Chess build with vanilla JavaScript 
+https://anshumangupta-code.github.io/Chess/)https://anshumangupta-code.github.io/Chess/
